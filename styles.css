@@ -325,6 +325,13 @@ nav {
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
 
+.popular__card__btn {
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  margin-top: 1rem;
+}
+
 .popular__content {
   position: relative;
   isolation: isolate;
