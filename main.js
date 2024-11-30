@@ -60,7 +60,7 @@ ScrollReveal().reveal(".choose__list li", {
 });
 
 const swiper = new Swiper(".swiper", {
-  slidesPerView: 3.5,
+  slidesPerView: 3,
   spaceBetween: 0,
   loop: true,
 });
